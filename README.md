@@ -3,4 +3,5 @@ Code for Dravidian-CodeMix-HASOC Shared Task @ Forum of Information Retrieval Ev
 
 Task: Classifying Code-Mixed Tamil + English YouTube comments as offensive/inoffensive using keras convolutional networks
 
-Achieved an F-score of 0.835 
+F-score of 0.835 
+Rank 5
